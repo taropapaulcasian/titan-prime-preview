@@ -265,7 +265,7 @@ tbody tr:last-child td { border-bottom: 0; }
   .benefits-list { grid-template-columns: repeat(2, 1fr); }
   .reviews { grid-template-columns: repeat(3, 1fr); }
   .video-row { grid-template-columns: repeat(3, 1fr); max-width: 720px; margin-left: auto; margin-right: auto; }
-  .gallery-strip { grid-auto-flow: row; grid-template-columns: repeat(4, 1fr); overflow: visible; }
+  .gallery-strip { grid-auto-flow: row; grid-template-columns: repeat(3, 1fr); overflow: visible; }
   .footer-grid { grid-template-columns: 2fr 1fr 1fr 1.4fr; }
   .usage-modes { grid-template-columns: repeat(2, 1fr); }
 }
