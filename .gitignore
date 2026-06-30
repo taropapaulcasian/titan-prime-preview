@@ -1,0 +1,6 @@
+# macOS
+.DS_Store
+
+# Local video copies — preview references the live URLs on shop.andreimarincean.ro
+# (kept out of the repo: 2 files exceed Cloudflare Pages' 25 MB/file limit)
+assets/video/
